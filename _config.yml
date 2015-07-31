@@ -4,7 +4,7 @@ email:       tploskinajr@gmail.com
 author:      Tom Ploskina Jr.
 description: "A semi-weekly blog about my favorite topics"
 baseurl:     ""
-url:         "http://tmpjr.me"
+url:         "http://tmpjr.github.io"
 
 # Google analytics
 google_analytics:
