@@ -1,7 +1,7 @@
 # Site settings
-title:       Code, Eat, Run, Lift
-email:       tploskinajr@gmail.com
-author:      Tom Ploskina Jr.
+title:       "Code, Eat, Run, Lift"
+email:       "tploskinajr@gmail.com"
+author:      "Tom Ploskina Jr."
 description: "A semi-weekly blog about my favorite topics"
 baseurl:     ""
 url:         "https://tmpjr.github.io"
@@ -20,11 +20,11 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
-github_username:tmpjr
-stackoverflow_id:hines-bourne
-twitter_username:tmpjrdotme
+github_username: tmpjr
+stackoverflow_id: "hines-bourne"
+twitter_username: tmpjrdotme
 google_plus_id:
-linkedin_username:tmpjr
+linkedin_username: tmpjr
 angellist_username:
 medium_id:
 bitcoin_url:
